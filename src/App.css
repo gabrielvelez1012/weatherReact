@@ -1,0 +1,33 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+.App{
+  background-color: white;
+  border: 1px solid rgb(204, 204, 206);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  padding: 50px;
+  border-radius: 25px;
+  
+}
+
+.letter{
+  font-size: medium;
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+}
+
+.button{
+  background: red;
+  align-items: center;
+  color: white;
+  margin-left: 200px;
+  margin-top: 20px;
+}
